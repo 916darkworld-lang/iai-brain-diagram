@@ -54,4 +54,5 @@ flowchart LR
     class User,AppLogic,CreativeWorkflows output
     class MultiAIMode,AIMusicMode,PersonalizationMode,SingleAIMode modes
 
-    linkStyle default stroke:#666,stroke-width:1.5px```
+    linkStyle default stroke:#666,stroke-width:1.5px
+```
